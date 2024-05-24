@@ -16,3 +16,6 @@ public class CommandLineExample {
     }
 }
 ```
+- [ ] Do Codio Assignment
+- [ ] Finalize Job Posting
+- [ ] Java Homework
